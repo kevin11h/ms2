@@ -1,2 +1,2 @@
-# ms2
-MS2=Masculinity-+-Spirituality-+-Sexuality
+# E = ms^2
+E = MS^2 = Masculinity + Spirituality + Sexuality
